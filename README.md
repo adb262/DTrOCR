@@ -24,6 +24,22 @@ The table below outlines the principal distinctions between the implementation d
 
 ## Installation
 
+### Option 1: Direct installation from GitHub
+
+```shell
+pip install git+https://github.com/arvindrajan92/DTrOCR.git
+```
+
+### Option 2: Clone and install in development mode
+
+```shell
+git clone https://github.com/arvindrajan92/DTrOCR
+cd DTrOCR
+pip install -e .
+```
+
+### Option 3: Install dependencies only
+
 ```shell
 git clone https://github.com/arvindrajan92/DTrOCR
 cd DTrOCR
